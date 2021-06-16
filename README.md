@@ -1,5 +1,5 @@
 # Python
-Projetos em Python.
+Projetos em Python para preço E-Commerce
 
 class Produto:
     def __init__(self, nome, preco):
